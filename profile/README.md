@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### MY WORK 
+---
+|Projects|
+| ---- | 
+| [Front-End-Responsive-Design](https://github.com/Vincent-de-Torres-Portfolio/responsive-web-design-certification/)|
+| [JavaScript Algorithms and Data Structures](#) |
+|[Reational Database](#)|
 <!--
 
 **Here are some ideas to get you started:**
